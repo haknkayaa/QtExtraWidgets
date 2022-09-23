@@ -27,4 +27,4 @@ Requirements
 
 # Contact:
 * Email: [mail@hakankaya.kim]
-* Twitter: [@mohamed_ayman](https://twitter.com/haknkayaa)
+* Twitter: [@haknkayaa](https://twitter.com/haknkayaa)
